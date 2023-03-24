@@ -1,5 +1,6 @@
 ### Hello! I'm LSK!
-- Studying C# and Microsoft SQL Server
+- Studying C#
+- Basic HTML, CSS and Javascript
 - Pronouns: He/Him
 ##
 
