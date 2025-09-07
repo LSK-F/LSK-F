@@ -13,11 +13,10 @@
 
 ### 🔹 About Me
 
-- Undergraduate in Applied Mathematics - with emphasis on Computer Science - at Federal University of Rio de Janeiro (UFRJ), based in RJ, Brazil   
-- Enthusiastic about Software Development, Data Engineering and AI   
-- Experience with **C# (.NET Core, ASP.NET, Entity Framework)**, **Python (Pandas, Numpy, Matplotlib)** and **SQL Server**   
-- Projects range from **software systems** to **data processing and data analysis**   
-- Looking for opportunities to apply my skills in Software Engineering, Data Engineering and Data Science
+- Undergraduate in Applied Mathematics - with emphasis on Computer Science - at Federal University of Rio de Janeiro (UFRJ), based in RJ, Brazil      
+- Experience with C# (.NET Core, ASP.NET, Entity Framework), Python (Pandas, Numpy, Matplotlib) and SQL Server   
+- Projects range from software development to data processing and data analysis   
+- Enthusiastic about Software Development, Data Engineering and Data Science, seeking opportunities to apply my skills in these areas
 
 ---
 
